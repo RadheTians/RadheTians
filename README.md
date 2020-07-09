@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Radhe Raman Tiwari currently pursuing computer science and engineering at [Indian Institute of Information Technology Senapati, Manipur(India)](http://www.iiitmanipur.ac.in/) who sturdily believes we in intimacy can make the galaxy an adventure place with the help of computer science and engineering.
+
 
 Here are some ideas to get you started:
 
