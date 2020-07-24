@@ -19,5 +19,5 @@ Here are some fun pieces of stuff that are currently doing and looking for:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RadheTians&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/RadheTians/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheTians" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheTians&count_private=true&show_icons=true&theme=radical" />
 </a>
