@@ -13,3 +13,11 @@ Here are some fun pieces of stuff that are currently doing and looking for:
 - 📫 How to reach me: [Wesite](https://sites.google.com/view/radhetians) [LinkedIn](https://www.linkedin.com/in/radhetians/)
 - ⚡ Fun fact: Watching
 
+
+
+<a href="https://github.com/RadheTians/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RadheTians&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/RadheTians/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadheTians" />
+</a>
