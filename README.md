@@ -14,6 +14,7 @@ Here are some fun pieces of stuff that are currently doing and looking for:
 - ⚡ Fun fact: Watching
 
 
+![](https://komarev.com/ghpvc/?username=RadheTians&color=brightgreen)
 
 <a href="https://github.com/RadheTians">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RadheTians&count_private=true&show_icons=true&theme=radical" />
